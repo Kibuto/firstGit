@@ -1,0 +1,1 @@
+This project is a just demo how to use git
