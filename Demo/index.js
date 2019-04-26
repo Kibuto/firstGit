@@ -10,3 +10,4 @@ var jerry = new Mouse('Jerry');
 tom.eat(jerry);
 dog.eat(tom);
 console.log(dog, tom);
+dog.sayHi();
