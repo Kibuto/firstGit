@@ -8,3 +8,5 @@ Dog.prototype.eat = function(cat) {
 	// body...
 	this.stomach.push(cat);
 };
+
+module.exports = Dog;
